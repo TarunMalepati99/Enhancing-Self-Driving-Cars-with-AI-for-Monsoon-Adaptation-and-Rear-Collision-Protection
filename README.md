@@ -96,7 +96,7 @@ cd self-driving-car
 ```bash
 npm install
 ```
-
+ 
 4. Add your world configuration file (e.g., `test.world`) to the project root.
 
 [🔝 back to top](#table-of-contents)
